@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text>
+<body>
+<p>Glissando_sp</p>
+<div xml:id="f19ln_m20ln">
+<listPerson>
+<person xml:id="f19ln">
+<persName> f19ln </persName>
+</person>
+<person xml:id="m20ln">
+<persName> m20ln </persName>
+</person>
+<relationGrp><p> Acquaintances </p></relationGrp>
+</listPerson>
+<desc> tdi </desc>
+<incident xml:id="i_tdi_1" start="0.000" end="0.372"> <desc>recording starts</desc> </incident>
+<incident xml:id="i_tdi_2" start="0.372" end="6.021"> <desc>steps</desc> </incident>
+<incident xml:id="i_tdi_3" start="6.021" end="6.302"> <desc>door closing</desc> </incident>
+<u who="#m20ln" xml:id="u_m20ln_tdi_4" start="11.184" end="13.601"> Bueno, que tenemos que hablar un poco... sobre nosotros </u>
+<u who="#m20ln" xml:id="u_m20ln_tdi_5" start="13.830" end="15.080"> ¿Te acuerdas de cómo nos conocimos? </u>
+<u who="#m20ln" xml:id="u_m20ln_tdi_6" start="15.206" end="15.859"> ¡Qué recuerdos! </u>
+<u who="#f19ln" xml:id="u_f19ln_tdi_7" start="15.857" end="16.883"> Sí de clase. </u>
+<u who="#f19ln" xml:id="u_f19ln_tdi_8" start="17.342" end="19.769"> Bueno un... cachondeo los primeros días, la verdad... </u>
+<u who="#m20ln" xml:id="u_m20ln_tdi_9" start="19.854" end="26.003"> Yo es que... el caso <del type="trunc"> q(ue) </del> el primer día de novatadas... no te ubico. Te ubico... <del type="trunc"> le </del> ¿Te acuerdas que el de audiovisual faltó como dos meses? </u>
+<u who="#f19ln" xml:id="u_f19ln_tdi_10" start="26.256" end="26.620"> Sí. </u>
+<u who="#m20ln" xml:id="u_m20ln_tdi_11" start="26.854" end="32.575"> <vocal type="filler"><desc>eh</desc></vocal> El primer día que cogimos ahí un grupo de cinco o seis personas nos cogimos nos fuimos al Lupa famoso Lupa... </u>
+<u who="#f19ln" xml:id="u_f19ln_tdi_12" start="32.694" end="32.982"> <vocal type="non-ling"><desc>laugh</desc></vocal> </u>
+<u who="#m20ln" xml:id="u_m20ln_tdi_13" start="33.206" end="35.186"> nos sentamos en las escaleras ahí charlando... </u>
+<u who="#f19ln" xml:id="u_f19ln_tdi_14" start="35.451" end="38.849"> Sí es verdad, la <del type="trunc"> ver </del> . Formamos el grupo... a los dos días. </u>
+<u who="#m20ln" xml:id="u_m20ln_tdi_15" start="35.614" end="36.033"> <anchor xml:id="sync_f19ln_m20ln_tdi_1"/> ahí fue. <anchor xml:id="sync_f19ln_m20ln_tdi_2"/> </u>
+<u who="#m20ln" xml:id="u_m20ln_tdi_16" start="38.884" end="41.598"> Sí. Luego somos los que mejor nos hemos llevado porque no sé. No... </u>
+<u who="#m20ln" xml:id="u_m20ln_tdi_17" start="41.935" end="46.392"> Gente clase me llevo... bien con todos <del type="trunc"> pe(ro) </del> <unclear/> hay un grupillo que es bastante majo y fue ese </u>
+<u who="#m20ln" xml:id="u_m20ln_tdi_18" start="46.735" end="47.458"> <del type="trunc"> (E)se </del> día que... </u>
+<u who="#f19ln" xml:id="u_f19ln_tdi_19" start="46.914" end="51.842"> Sí sí. Además fue el primer día, los que quedamos y nos fuimos por ahí a tomar algo, esos somos los <del type="trunc"> q(ue) </del> estamos ahora. </u>
+<u who="#m20ln" xml:id="u_m20ln_tdi_20" start="52.083" end="55.895"> Los únicos responsables. En vez de irnos a casa, a tomar algo al... <vocal type="non-ling"><desc>laugh</desc></vocal> al Lupa. </u>
+<u who="#f19ln" xml:id="u_f19ln_tdi_21" start="56.120" end="57.409"> Sí sí la verdad que sí. </u>
+<u who="#m20ln" xml:id="u_m20ln_tdi_22" start="57.950" end="58.308"> <del type="trunc"> Val(e) </del> . </u>
+<u who="#f19ln" xml:id="u_f19ln_tdi_23" start="58.038" end="59.458"> Y luego las novatadas... </u>
+<u who="#m20ln" xml:id="u_m20ln_tdi_24" start="59.638" end="64.483"> ¡Pfff! Fueron mundiales, fueron mundiales. La <del type="trunc"> verda(d) </del> <del type="trunc"> (e)s </del> que estuvieron muy bien. No... no nos putearon demasiado. </u>
+<u who="#f19ln" xml:id="u_f19ln_tdi_25" start="59.878" end="60.145"> <anchor xml:id="sync_f19ln_m20ln_tdi_3"/> tela. <anchor xml:id="sync_f19ln_m20ln_tdi_4"/> </u>
