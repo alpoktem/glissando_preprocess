@@ -3,7 +3,8 @@
 Processes Glissando corpus TextGrids and audio files to make them inputtable to Proscripter.
 
 ## Required Libraries
-- Python 2.7 with libraries:
+- Python with libraries:
+	- proscript (https://github.com/alpoktem/proscript)
 	- pydub
 	- praatio
 	- numpy
@@ -16,6 +17,7 @@ Processes Glissando corpus TextGrids and audio files to make them inputtable to 
 	- mFilter 
 	- polynom
 	- orthopolynom
+- Praat
 
 ## Run 
 Before running, make sure `extract-prosodic-feats.sh` file under `dist-packages/proscript/utilities/laic` has execution permissions for all
